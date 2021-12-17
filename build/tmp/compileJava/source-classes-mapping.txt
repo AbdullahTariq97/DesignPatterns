@@ -1,0 +1,38 @@
+com/sky/designpatterns/classbuilderstaticmethod/Main.java
+ com.sky.designpatterns.classbuilderstaticmethod.Main
+com/sky/designpatterns/designfactory/CarFactory.java
+ com.sky.designpatterns.designfactory.CarFactory
+com/sky/designpatterns/designfactory/Porsche.java
+ com.sky.designpatterns.designfactory.Porsche
+com/sky/designpatterns/singleton/Database.java
+ com.sky.designpatterns.singleton.Database
+com/sky/designpatterns/classbuilderstaticmethod/MetricsDto.java
+ com.sky.designpatterns.classbuilderstaticmethod.MetricsDto
+com/sky/designpatterns/designfactory/Car.java
+ com.sky.designpatterns.designfactory.Car
+com/sky/designpatterns/designfactory/Ferrari.java
+ com.sky.designpatterns.designfactory.Ferrari
+com/sky/designpatterns/designfactory/Main.java
+ com.sky.designpatterns.designfactory.Main
+com/sky/designpatterns/adapter/example1/PenAdaptor.java
+ com.sky.designpatterns.adapter.example1.PenAdaptor
+com/sky/designpatterns/adapter/example1/AssignmentWork.java
+ com.sky.designpatterns.adapter.example1.AssignmentWork
+com/sky/designpatterns/adapter/example1/Pen.java
+ com.sky.designpatterns.adapter.example1.Pen
+com/sky/designpatterns/adapter/example1/School.java
+ com.sky.designpatterns.adapter.example1.School
+com/sky/designpatterns/adapter/example1/BallPointPen.java
+ com.sky.designpatterns.adapter.example1.BallPointPen
+com/sky/designpatterns/adapter/example2/File.java
+ com.sky.designpatterns.adapter.example2.File
+com/sky/designpatterns/adapter/example2/Main.java
+ com.sky.designpatterns.adapter.example2.Main
+com/sky/designpatterns/adapter/example2/FileDownloader.java
+ com.sky.designpatterns.adapter.example2.FileDownloader
+com/sky/designpatterns/adapter/example2/Phone.java
+ com.sky.designpatterns.adapter.example2.Phone
+com/sky/designpatterns/adapter/example2/DeviceAdaptor.java
+ com.sky.designpatterns.adapter.example2.DeviceAdaptor
+com/sky/designpatterns/adapter/example2/Computer.java
+ com.sky.designpatterns.adapter.example2.Computer
