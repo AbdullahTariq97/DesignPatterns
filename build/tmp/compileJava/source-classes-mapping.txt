@@ -1,38 +1,82 @@
+com/sky/designpatterns/adapter/example1/PenAdaptor.java
+ com.sky.designpatterns.adapter.example1.PenAdaptor
 com/sky/designpatterns/classbuilderstaticmethod/Main.java
  com.sky.designpatterns.classbuilderstaticmethod.Main
-com/sky/designpatterns/designfactory/CarFactory.java
- com.sky.designpatterns.designfactory.CarFactory
+com/sky/designpatterns/adapter/example2/Main.java
+ com.sky.designpatterns.adapter.example2.Main
+com/sky/designpatterns/adapter/example1/Pen.java
+ com.sky.designpatterns.adapter.example1.Pen
+com/sky/designpatterns/adapter/example2/DeviceAdaptor.java
+ com.sky.designpatterns.adapter.example2.DeviceAdaptor
+com/sky/designpatterns/strategy/PostRequestStrategy.java
+ com.sky.designpatterns.strategy.PostRequestStrategy
 com/sky/designpatterns/designfactory/Porsche.java
  com.sky.designpatterns.designfactory.Porsche
-com/sky/designpatterns/singleton/Database.java
- com.sky.designpatterns.singleton.Database
-com/sky/designpatterns/classbuilderstaticmethod/MetricsDto.java
- com.sky.designpatterns.classbuilderstaticmethod.MetricsDto
+com/sky/designpatterns/adapter/example2/Phone.java
+ com.sky.designpatterns.adapter.example2.Phone
+com/sky/designpatterns/strategy/RequestStrategy.java
+ com.sky.designpatterns.strategy.RequestStrategy
+com/sky/designpatterns/designfactory/CarFactory.java
+ com.sky.designpatterns.designfactory.CarFactory
 com/sky/designpatterns/designfactory/Car.java
  com.sky.designpatterns.designfactory.Car
 com/sky/designpatterns/designfactory/Ferrari.java
  com.sky.designpatterns.designfactory.Ferrari
-com/sky/designpatterns/designfactory/Main.java
- com.sky.designpatterns.designfactory.Main
-com/sky/designpatterns/adapter/example1/PenAdaptor.java
- com.sky.designpatterns.adapter.example1.PenAdaptor
-com/sky/designpatterns/adapter/example1/AssignmentWork.java
- com.sky.designpatterns.adapter.example1.AssignmentWork
-com/sky/designpatterns/adapter/example1/Pen.java
- com.sky.designpatterns.adapter.example1.Pen
+com/sky/designpatterns/adapter/example2/FileDownloader.java
+ com.sky.designpatterns.adapter.example2.FileDownloader
 com/sky/designpatterns/adapter/example1/School.java
  com.sky.designpatterns.adapter.example1.School
 com/sky/designpatterns/adapter/example1/BallPointPen.java
  com.sky.designpatterns.adapter.example1.BallPointPen
-com/sky/designpatterns/adapter/example2/File.java
- com.sky.designpatterns.adapter.example2.File
-com/sky/designpatterns/adapter/example2/Main.java
- com.sky.designpatterns.adapter.example2.Main
-com/sky/designpatterns/adapter/example2/FileDownloader.java
- com.sky.designpatterns.adapter.example2.FileDownloader
-com/sky/designpatterns/adapter/example2/Phone.java
- com.sky.designpatterns.adapter.example2.Phone
-com/sky/designpatterns/adapter/example2/DeviceAdaptor.java
- com.sky.designpatterns.adapter.example2.DeviceAdaptor
+com/sky/designpatterns/classbuilderstaticmethod/MetricsDto.java
+ com.sky.designpatterns.classbuilderstaticmethod.MetricsDto
+com/sky/designpatterns/adapter/example1/AssignmentWork.java
+ com.sky.designpatterns.adapter.example1.AssignmentWork
+com/sky/designpatterns/strategy/GetRequestStrategy.java
+ com.sky.designpatterns.strategy.GetRequestStrategy
 com/sky/designpatterns/adapter/example2/Computer.java
  com.sky.designpatterns.adapter.example2.Computer
+com/sky/designpatterns/singleton/Database.java
+ com.sky.designpatterns.singleton.Database
+com/sky/designpatterns/designfactory/Main.java
+ com.sky.designpatterns.designfactory.Main
+com/sky/designpatterns/strategy/DownstreamClient.java
+ com.sky.designpatterns.strategy.DownstreamClient
+com/sky/designpatterns/adapter/example2/File.java
+ com.sky.designpatterns.adapter.example2.File
+com/sky/designpatterns/strategy/StrategyBadExample.java
+ com.sky.designpatterns.strategy.StrategyBadExample
+com/sky/designpatterns/decorator/FailoverSender.java
+ com.sky.designpatterns.decorator.FailoverSender
+com/sky/designpatterns/decorator/Sender.java
+ com.sky.designpatterns.decorator.Sender
+com/sky/designpatterns/decorator/SimpleSender.java
+ com.sky.designpatterns.decorator.SimpleSender
+com/sky/designpatterns/state/OrderedState.java
+ com.sky.designpatterns.state.OrderedState
+com/sky/designpatterns/decorator/KafkaSender.java
+ com.sky.designpatterns.decorator.KafkaSender
+com/sky/designpatterns/strategy/Main.java
+ com.sky.designpatterns.strategy.Main
+com/sky/designpatterns/state/PackageState.java
+ com.sky.designpatterns.state.PackageState
+com/sky/designpatterns/decorator/SocialMediaSender.java
+ com.sky.designpatterns.decorator.SocialMediaSender
+com/sky/designpatterns/decorator/bad_example/SimpleAndSocialMediaSender.java
+ com.sky.designpatterns.decorator.bad_example.SimpleAndSocialMediaSender
+com/sky/designpatterns/decorator/bad_example/FailoverAndSocialMediaSender.java
+ com.sky.designpatterns.decorator.bad_example.FailoverAndSocialMediaSender
+com/sky/designpatterns/state/Package.java
+ com.sky.designpatterns.state.Package
+com/sky/designpatterns/decorator/bad_example/FailoverAndSimpleSender.java
+ com.sky.designpatterns.decorator.bad_example.FailoverAndSimpleSender
+com/sky/designpatterns/state/DeliveredState.java
+ com.sky.designpatterns.state.DeliveredState
+com/sky/designpatterns/state/ReceivedState.java
+ com.sky.designpatterns.state.ReceivedState
+com/sky/designpatterns/state/RunnerClass.java
+ com.sky.designpatterns.state.RunnerClass
+com/sky/designpatterns/state/bad_example/Main.java
+ com.sky.designpatterns.state.bad_example.Main
+com/sky/designpatterns/state/bad_example/Package.java
+ com.sky.designpatterns.state.bad_example.Package
